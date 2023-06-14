@@ -53,7 +53,7 @@ class MyHomePage extends StatelessWidget {
                 ),
                 child: FloatingActionButton(
                   onPressed: () {
-                    // Add your floating action button onPressed logic here
+                    
                   },
                   child: Icon(Icons.edit_outlined, color: Colors.black),
                   backgroundColor: Colors.blue[50],
@@ -70,7 +70,7 @@ class MyHomePage extends StatelessWidget {
             IconButton(
               icon: Icon(Icons.mark_email_unread),
               onPressed: () {
-                // Add your home icon onPressed logic here
+               
               },
             ),
             IconButton(
@@ -79,7 +79,7 @@ class MyHomePage extends StatelessWidget {
                 size: 35,
               ),
               onPressed: () {
-                // Add your settings icon onPressed logic here
+                
               },
             ),
           ],
